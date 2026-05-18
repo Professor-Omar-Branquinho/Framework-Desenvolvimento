@@ -5,6 +5,7 @@
 ## Códigos
 
 ![Diagrama do sistema](./Imagens/Framework_v1.png)
+![Kit-LoRa](./Imagens/Kit-LoRa.png)
 
 Cliente
 
