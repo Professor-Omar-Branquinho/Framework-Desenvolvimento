@@ -1,54 +1,15 @@
 # DOCUMENTAÇÃO DO GUITHUB
 
 ## Introdução
+Esse é um exemplo de como ducumentar um projeto e foi gerado pelo ChatGPT.
 
 ## Códigos
+Códigos do nó sensor, gateway e Pythons.
+
+## Figuras
+Incluiu duas figuras do Framework e do Kit-LoRa
 
 ![Diagrama do sistema](./Imagens/Framework_v1.png)
+Figura 1 - Framework
 ![Kit-LoRa](./Imagens/Kit-LoRa.png)
-
-Cliente
-
-- Nível 1
-- Captura
-- Luminosidade
-- ESP32 12 Bits
-- RADI U.FL
-
-↔
-
-## Nível 2 - Conectividade LoRa
-
-↔
-
-## Nível 3
-
-- Luminosidade
-- RSSI DL RSSI UL
-
-↔
-
-## Nível 4 Armazenamento
-
-- Luminosidade
-- RSSI DL RSSI UL
-- Médias
-
-↕
-
-## Nível 5
-
-- Média
-
-↔
-
-## Nível 6
-
-- Luminosidade
-- RSSI DL
-- RSSI UL
-
-Exibe a Média luminosidade
-
-- Em Tempo Real
-- Em Tempo não Real
+Figura 2 - Kit-LoRa
