@@ -9,10 +9,10 @@ Códigos do nó sensor, gateway e Pythons.
 ## Figuras
 Incluiu duas figuras do Framework e do Kit-LoRa
 
-![Diagrama do sistema](./Imagens/Framework_v1.png)
+![Diagrama do sistema](./4_Imagens/Framework_v1.png)
 
 Figura 1 - Framework
 
-![Kit-LoRa](./Imagens/Kit-LoRa.png)
+![Kit-LoRa](./4_Imagens/Kit-LoRa.png)
 
 Figura 2 - Kit-LoRa
