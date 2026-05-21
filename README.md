@@ -16,3 +16,5 @@ Figura 1 - Framework
 ![Kit-LoRa](./4_Imagens/Kit-LoRa.png)
 
 Figura 2 - Kit-LoRa
+
+Teste de alteração
